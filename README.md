@@ -43,5 +43,5 @@ $ sudo sh /path/to/tyme-googlecalendar.sh [tyme_export_csv_filename]
 With script installed on /usr/local/bin
 
 ```bash
-$ sudo tyme2-googlecalendar [tyme2_export_csv_filename]
+$ sudo tyme-googlecalendar [tyme_export_csv_filename]
 ```
