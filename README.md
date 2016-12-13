@@ -1,6 +1,6 @@
 # Tyme csv file to Google Calendar csv file
 
-Bash script to convert a Tyme csv file export in a Google Calendar file.
+Bash script to convert a csv file from Tyme exportation in a csv file for Google Calendar.
 
 I made this script to import my time spent on my tasks and projects from Tyme Mac app (http://tyme-app.com/) to Google Calendar.
 
@@ -45,3 +45,5 @@ With script installed on /usr/local/bin
 ```bash
 $ sudo tyme-googlecalendar [tyme_export_csv_filename]
 ```
+
+When it's done, import the csv file created in your calendar in Google Calendar : https://support.google.com/calendar/answer/37118.
