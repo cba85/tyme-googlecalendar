@@ -6,7 +6,7 @@
 # Convert a csv file from Tyme exportation in csv file for Google Calendar.
 # First, export your Tyme datas in a csv file.
 # Then, launch the script : sudo sh /path/to/tyme-googlecalendar.sh [tyme_export_csv_filename]
-# When it's done, import the csv file created in your calendar on Google Calendar.
+# When it's done, import the csv file created on Google Calendar.
 # Google Calendar importing : https://support.google.com/calendar/answer/37118
 #
 # More informations on the Github repository : https://github.com/cba85/tyme-googlecalendar

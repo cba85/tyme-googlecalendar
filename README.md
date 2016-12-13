@@ -46,4 +46,4 @@ With script installed on /usr/local/bin
 $ sudo tyme-googlecalendar [tyme_exported_csv_filename]
 ```
 
-When it's done, import the csv file created in your calendar on Google Calendar : https://support.google.com/calendar/answer/37118.
+When it's done, import the csv file created on Google Calendar : https://support.google.com/calendar/answer/37118.
