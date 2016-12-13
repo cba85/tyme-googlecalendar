@@ -1,6 +1,6 @@
 # Tyme 2 csv file to Google Calendar csv file
 
-Bash ccript to convert a Tyme 2 csv file export in a Gogole Calendar file
+Bash script to convert a Tyme 2 csv file export in a Gogole Calendar file
 
 ## Installation
 
