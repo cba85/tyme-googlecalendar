@@ -32,7 +32,7 @@ $ chmod +x tyme-googlecalendar
 
 First, export your time traked in Tyme in csv format.
 
-Then launch the tyme-to-calendar script passing your exported csv file as an argument.
+Then, launch the tyme-to-calendar script passing your exported csv file as an argument.
 
 Basic command line syntax:
 
@@ -46,4 +46,4 @@ With script installed on /usr/local/bin
 $ sudo tyme-googlecalendar [tyme_export_csv_filename]
 ```
 
-When it's done, import the csv file created in your calendar in Google Calendar : https://support.google.com/calendar/answer/37118.
+When it's done, import the csv file created in your calendar on Google Calendar : https://support.google.com/calendar/answer/37118.
