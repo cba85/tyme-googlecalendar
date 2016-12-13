@@ -32,7 +32,7 @@ $ chmod +x tyme-googlecalendar
 
 First, export your time traked in Tyme in csv format.
 
-Then launch the tyme-to-calendar script with your exported csv file as an argument.
+Then launch the tyme-to-calendar script passing your exported csv file as an argument.
 
 Basic command line syntax:
 
